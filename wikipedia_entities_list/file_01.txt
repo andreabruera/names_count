@@ -1,0 +1,1002 @@
+Union	14108
+Newline	14101
+National_Assembly_(France)	14089
+Irish_language	14073
+Harry	14060
+Los_Angeles_Dodgers	14053
+Victoria	14050
+Baptists	14043
+West_Bengal	14040
+Dutch_language	14029
+E_(disambiguation)	14021
+American_Hockey_League	13992
+Kuwait	13991	Place	Country
+Dresden	13988	Place	City
+Charlie	13980
+American_League	13977
+Hampshire	13972	Place	Area
+Indian_Ocean	13960	Place	Sea
+Santiago	13954
+Roman_Republic	13947
+Theodore_Roosevelt	13945	Person	Politics
+Montenegro	13903
+Shia_Islam	13897
+Rhode_Island	13896	Place	Area
+Detroit_Tigers	13894
+Channel_4	13894
+Bengal	13893
+Nintendo	13892
+Canberra	13878	Place	City
+Dwight_D._Eisenhower	13874	Person	Politics
+Hyderabad	13855	Place	Area
+Indigenous_peoples_of_the_Americas	13851
+William	13843
+Tel_Aviv	13835	Place	City
+Angola	13814	Place	Country
+European_Commission	13778
+Grade	13738
+Plymouth	13706	Place	City
+Count	13695
+Anatolia	13684	Place	Area
+Brighton	13681	Place	City
+Crown	13678
+University_of_Pennsylvania	13652
+Technology	13648
+Constitution	13638
+Idaho	13616	Place	Area
+Android_(operating_system)	13614
+National_Baseball_Hall_of_Fame_and_Museum	13607
+Oakland,_California	13598	Place	City
+Friends	13579
+TO	13548
+Philadelphia_Eagles	13537
+West_Africa	13534
+Karnataka	13523	Place	Area
+Alexander_the_Great	13507	Person	Politics
+Tehran	13504	Place	City
+Kingdom_of_Great_Britain	13482
+Washington_Redskins	13479
+Damascus	13473	Place	City
+Serie_A	13465
+FM_broadcasting	13434
+Football_League_First_Division	13431
+Sussex	13419	Place	Area
+Spanish_Civil_War	13418
+Havana	13415	Place	City
+Presbyterianism	13386
+Gross_domestic_product	13382
+Brian_Griffin	13375	Person
+Pittsburgh_Steelers	13361
+Buffalo,_New_York	13349
+Laos	13348	Place	Country
+Egyptian	13342
+Helen	13308
+Gabriel	13302
+River_Thames	13301	Place	River
+Malayalam	13282
+Portuguese_language	13270
+Ming_dynasty	13269
+Constitution_of_the_United_States	13262
+Apollo	13238
+Oxford_University_Press	13227
+Rhine	13227	Place	River
+Richmond,_Virginia	13209
+Mongolia	13198	Place	Country
+Hillary_Clinton	13187	Person	Politics
+Tang_dynasty	13185
+Beyoncé	13181	Person	Music
+Senegal	13159	Place	Country
+SR	13150
+Derby	13125
+Super_Bowl	13122
+Basel	13117	Place	City
+Beirut	13114	Place	City
+Urdu	13110
+Mahatma_Gandhi	13102	Person	Politics
+Gujarat	13102
+Pakistanis	13093
+Bermuda	13076	Place	Area
+Kraków	13030	Place	City
+Place	13026
+Siberia	13016	Place	Area
+Memphis,_Tennessee	13000	Place	City
+Culture	12998
+Home	12996
+Baron	12995
+Lyndon_B._Johnson	12990	Person	Politics
+South_Vietnam	12988
+Mathematics	12987
+Race	12985
+Jakarta	12969	Place	City
+Lieutenant	12955
+Legion_of_Honour	12953
+Salt_Lake_City	12950	Place	City
+Record	12949
+United_States_Environmental_Protection_Agency	12926
+Lewis	12917
+Louisville,_Kentucky	12909
+Marseille	12904	Place	City
+Holy_See	12900
+Susan_Foreman	12896	Person	Fictional
+Delaware	12890	Place	Area
+United_States_Department_of_Defense	12885
+Andhra_Pradesh	12873
+Catalonia	12857	Place	Area
+Route	12855
+The_Simpsons	12843
+Hungarians	12832
+Manchester_City_F.C.	12824
+RS	12800
+North_Sea	12792	Place	Sea
+Gordon	12790
+Normandy	12777	Place	Area
+Queens	12770	Place	Neighborhood
+Young	12750
+Midwestern_United_States	12740
+Zagreb	12724	Place	City
+James_VI_and_I	12717	Person	Politics
+Jim	12708
+Danube	12692	Place	River
+Australian_Labor_Party	12682
+Board_of_Directors	12679
+Cincinnati_Reds	12678
+Eurovision_Song_Contest	12677
+League	12664
+Southampton	12662	Place	City
+Krishna	12661
+General_Motors	12647
+Manitoba	12646
+The_Wall_Street_Journal	12638
+Samuel	12637
+Royal_Air_Force_Volunteer_Reserve	12623
+VHS	12611
+Thomas_Jefferson	12608	Person	Politics
+Honduras	12607	Place	Country
+Hall	12599
+Prof	12582
+Victoria_Cross	12570
+Let	12557
+Bologna	12555
+The_Hague	12535	Place	City
+When	12535
+D.	12518
+World_Health_Organization	12516
+Lieutenant_colonel	12511
+Marxism	12501
+Genoa	12499	Place	City
+Act_of_Parliament	12491
+Old_English	12480
+Kelly	12480
+Great_Western_Railway	12477	Place
+NPR	12458
+Grace	12443
+Taliban	12439
+Part	12434
+Cleveland_Indians	12428
+South_Asia	12423	Place	Area
+Harris	12423
+French_Navy	12417
+Avenue	12412
+Central_Asia	12405	Place	Area
+Russian_Orthodox_Church	12363
+Research	12358
+Johannesburg	12343	Place	City
+Franciscans	12342
+Atlanta_Braves	12335
+Navy	12333
+Cleveland_Browns	12329
+People's_Army_of_Vietnam	12315
+Trinity	12298
+University_of_Texas_at_Austin	12275
+South_Korean	12263
+Louis_XIV	12242	Person	Politics
+Story	12230
+Pittsburgh_Pirates	12229
+Mike	12224
+Mongols	12208
+Simon	12207
+Troy	12201
+Southeastern_Conference	12190
+Gibson	12185
+Okinawa_Prefecture	12173	Place	Area
+Hill	12166
+Jane	12163
+Wyoming	12160	Place	Area
+Chicago_White_Sox	12155
+Aberdeen	12146	Place	City
+Reformation	12141
+One_Day_International	12135
+COVID-19_pandemic	12126
+Sikhs	12123
+Juris_Doctor	12121
+Walter	12110
+Napoleonic_Wars	12102
+Mandatory_Palestine	12100
+Korean	12096
+Sparta	12083	Place	City
+Often	12074
+Dutch_Republic	12072
+Persian_language	12066
+Punjab	12066
+Han_Chinese	12065
+Nottingham	12053	Place	City
+Social_Democratic_Party_of_Germany	12048
+Brian_of_Brittany	12041	Person	Politics
+Sunni_Islam	12035
+Bolsheviks	12031
+United_States_Coast_Guard	12027
+Song	12026
+United_Kingdom_of_Great_Britain_and_Ireland	12021
+Ed	12019
+Order_of_the_Bath	12016
+Museum	12005
+Ohio_State_University	12002
+Western_Europe	12001	Place	Area
+New_Guinea	11989
+Celtic_F.C.	11987
+Devil	11981
+Victorian	11979
+Spanish_Empire	11966
+Clarke	11962
+Kannada	11957
+Principal	11943
+Ward	11937
+All-Ireland_Senior_Hurling_Championship	11930
+Uttar_Pradesh	11925
+Eastern	11909
+Bharatiya_Janata_Party	11905
+Hell	11897
+Senate	11879
+Filipinos	11873
+Major_general	11857
+Namibia	11842	Place	Country
+Torah	11840
+Census	11826
+Foreign_and_Commonwealth_Office	11826
+MY	11823
+Duke	11820
+International_Olympic_Committee	11812
+Zambia	11807
+Presidencies_and_provinces_of_British_India	11774
+Order	11758
+Variety_(magazine)	11755
+Carter	11753
+International	11751
+Tony	11741
+North_Macedonia	11739	Place	Country
+Lahore	11739	Place	City
+University_of_Southern_California	11737
+Czech	11736
+Papua_New_Guinea	11724	Place	Country
+Martin_Luther_King_Jr.	11700	Person	Politics
+Bob	11696
+The_Daily_Telegraph	11695
+List	11695
+H_(disambiguation)	11695
+British_Museum	11693	Place	Monument
+From	11684
+Vishnu	11681
+Chapter	11668
+Guam	11653
+Mariah_Carey	11652	Person	Music
+War	11650
+Crete	11649	Place	Area
+Aaron	11646
+Universal_Pictures	11638
+Cameroon	11634	Place	Country
+Line	11607
+Charleston,_South_Carolina	11545
+Mughal_Empire	11530
+World_Heritage_Site	11527
+And	11502
+Karachi	11492
+Sierra_Leone	11487	Place	Country
+Iraq_War	11479
+The_Bronx	11468	Place	Neighborhood
+British_people	11465
+Rhodes	11459
+_	11447
+Bahrain	11445	Place	Country
+Royal_Australian_Air_Force	11435
+BBC_One	11433
+Tour_de_France	11431
+Arctic	11411
+Entertainment_Weekly	11411
+NME	11407
+Father	11387
+Infantry	11385
+Green	11384
+FIFA	11382
+Saskatchewan	11377	Place	Area
+Orlando,_Florida	11369	Place	City
+MT	11362
+New_York_Jets	11361
+Paramount_Pictures	11358
+Mao_Zedong	11326	Person	Politics
+El_Salvador	11320	Place	Country
+Valencia	11315
+Detroit_Lions	11312
+Polish_language	11297
+Benito_Mussolini	11289	Person	Politics
+Lady	11285
+How	11279
+Hot_R&B/Hip-Hop_Songs	11235
+Dutch_East_Indies	11226
+Polish–Lithuanian_Commonwealth	11212
+Baroque	11208
+United_States_Military_Academy	11206
+Admiralty	11202
+Kuomintang	11197
+Main_Street	11191
+High_School	11190
+NCAA_Division_I_Men's_Basketball_Tournament	11189
+Solomon	11187	Person	Fictional
+Football_League_Second_Division	11185
+Bradford	11177
+Billy	11174
+Jimmy	11159
+Cherokee	11150
+Sofia	11141
+Welsh_language	11140
+Mexican–American_War	11121
+Venus	11112
+Assam	11098	Place	Area
+Smithsonian_Institution	11095
+Major_League_Baseball_All-Star_Game	11086
+An	11078
+Nigerians	11078
+Rama	11073
+Test	11069
+Museum_of_Modern_Art	11052
+Chester	11052
+Vladimir_Putin	11050	Person	Politics
+Telugu_language	11047
+Alex	11045
+Eric_Mun	11044	Person	Music
+Greenland	11035	Place	Area
+Jesse	11029
+Los_Angeles_Lakers	11021
+Jupiter	11010
+Federal_Aviation_Administration	11001
+EFL_Cup	10983
+Category	10979
+Health	10959
+CO	10957
+Connor	10957
+Phoenix,_Arizona	10945
+Southern_California	10940	Place	Area
+Business	10939
+Royal_Artillery	10934
+Scandinavia	10932	Place	Area
+Lady_Gaga	10926	Person	Music
+Ryan	10924
+Labour	10917
+Girls	10902
+Justice	10901
+Frank_Sinatra	10899	Person	Music
+V8_engine	10894
+Charles_II_of_England	10892	Person	Politics
+Calvinism	10889
+Britney_Spears	10889	Person	Music
+Col	10877
+Mozambique	10876	Place	Country
+Hispanic_and_Latino_Americans	10863
+Kansas_City,_Missouri	10858	Place	City
+PM	10850
+Allen	10843
+Ancient_Greek	10842
+Norwich	10817	Place	City
+Assembly	10801
+Lima	10797	Place	City
+Piano	10795
+Indigenous_Australians	10795
+Richard	10789
+Leicester	10786	Place	City
+San_Francisco_Giants	10784
+Engineering	10779
+Cork_GAA	10772
+Second	10765
+Kansas_City_Chiefs	10763
+Party	10746
+Baronet	10741
+Freemasonry	10733
+Anglo-Saxons	10730
+ARIA_Charts	10719
+After	10713
+Raja	10703
+United_States_Department_of_Justice	10673
+Southern_United_States	10672	Place	Area
+Liberal_Democrats_(UK)	10668
+French_Army	10650
+Atlantic_Records	10627
+Television_show##Seasons/Series	10625
+Kevin_Von_Erich	10609	Person	Sports
+Barbados	10606	Place	Country
+Bohemia	10604
+University_of_Toronto	10599
+Harry_S._Truman	10596	Person	Politics
+Suffolk	10589	Place	Area
+Sherlock_Holmes	10576	Person	Fictional
+La_Liga	10576
+James_Bond	10573	Person	Fictional
+Rotterdam	10571	Place	City
+RCA	10571
+Pennsylvania_Department_of_Education	10566
+Parker	10560
+Rose	10553
+Columbus,_Ohio	10550	Place	City
+Jake	10539
+Christchurch	10539
+Zionism	10536
+Point	10536
+Death	10532
+Viet_Cong	10529
+King_Arthur	10529	Person	Politics
+Development	10525
+ABC	10524
+Halifax,_Nova_Scotia	10515	Place	City
+Union_(American_Civil_War)	10510
+Food_and_Drug_Administration	10510
+Festival	10490
+Charles	10484
+Honolulu	10463	Place	City
+Indian_Army	10451
+Goa	10448	Place	Area
+Karl_Marx	10435	Person	Science
+University_of_Wisconsin–Madison	10434
+Doctor_of_Medicine	10433
+Intel	10430
+Rihanna	10418	Person	Music
+Moore	10411
+Confederacy	10404
+World_Bank	10392
+Under	10360
+Benjamin	10348
+Benedictines	10344
+University_of_Edinburgh	10334
+Physics	10333
+Amtrak	10320
+Denver_Broncos	10306
+Universal_Music_Group	10305
+Russian_Soviet_Federative_Socialist_Republic	10299
+University_of_Illinois_at_Urbana–Champaign	10297
+Toyota	10283
+Canterbury	10276
+Baltimore_Orioles	10269
+Gulf_War	10268
+Daniel	10262
+Dominican_Order	10258
+Ambassador	10247
+Consejo_Mundial_de_Lucha_Libre	10246
+Antarctica	10227	Place	Area
+Central_processing_unit	10206
+Gothic_Revival_architecture	10193
+Sigmund_Freud	10184	Person	Science
+English_Channel	10183
+Margaret	10179
+Channel	10171
+Provisional_Irish_Republican_Army	10167
+Bachelor_of_Laws	10162
+Town	10150
+Albanians	10147
+Rangers_F.C.	10140
+Newcastle_upon_Tyne	10139
+TD	10133
+X-Men	10130
+New_Haven,_Connecticut	10121
+Buffalo_Bills	10120
+Osaka	10108	Place	City
+Kate	10088
+Derbyshire	10086	Place	Area
+Lisa	10084
+Team	10082
+Aboriginal_Australians	10081
+The_Bahamas	10071
+The_New_Yorker	10067
+Chad	10063	Place	Country
+Romanian	10062
+Hon	10060
+Ukrainian	10049
+Park	10038
+Liberal_Party_of_Canada	10032
+B_(disambiguation)	10017
+Brittany	10015
+Isaac	10001
+National_Rugby_League	9991
+Campbell	9990
+Baku	9988
+England_national_football_team	9985
+Mother	9980
+Introduction	9979
+UEFA	9976
+Sacramento,_California	9975
+Central	9971
+Scouting	9970
+Jimmy_Carter	9966	Person	Politics
+New_Orleans_Saints	9965
+Woodrow_Wilson	9962	Person	Politics
+Joseph	9958
+Indianapolis_Colts	9956
+Eddie	9951
+Pune	9945
+May	9944
+Thessaloniki	9942	Place	City
+Serbian	9933
+Liberia	9932	Place	Country
+Fred	9929
+Saturday_Night_Live	9928
+Saint_John	9926	Person	Religion
+Oman	9922	Place	Country
+Stanley_Cup	9922
+Bihar	9921
+Omaha,_Nebraska	9916
+Strasbourg	9916	Place	City
+Philosophy	9912
+Road	9910
+Director_general	9908
+United_States_Census	9905
+Cheshire	9897
+Rwanda	9895	Place	Country
+PlayStation_2	9892
+Romani_people	9882
+Service	9873
+NASCAR_Cup_Series	9871
+Odisha	9868
+Royal_Academy_of_Arts	9868
+Victor	9867
+Baháʼí_Faith	9867
+Episcopal_Church_(United_States)	9865
+Republic_of_Venice	9861
+Literature	9855
+Mali	9852	Place	Country
+Charles_Dickens	9847	Person	Literature
+Thompson	9846
+Kuala_Lumpur	9843	Place	City
+South_Dakota	9842	Place	Area
+Far_East	9832
+With	9828
+Laura	9822
+Honda	9820
+G_(disambiguation)	9820
+RCA_Records	9816
+DE	9813
+Bronze_Age	9811
+Power	9803
+English_Civil_War	9801
+Mauritius	9795	Place	Country
+Noah	9793
+Mitchell	9791
+Jacksonville,_Florida	9790
+Red	9787
+Congress	9784
+Star_Trek	9780
+University_of_London	9776
+Albany,_New_York	9771
+Will	9769
+Vladimir_Lenin	9768	Person	Politics
+Baltic_Sea	9761	Place	Sea
+Miami_Dolphins	9761
+Uzbekistan	9745	Place	Country
+Everton_F.C.	9739
+Not	9722
+September_11_attacks	9719
+RNA	9709
+West_Ham_United_F.C.	9698
+New_Brunswick	9689
+Robert_E._Lee	9688	Person	Politics
+Emily	9671
+Southern	9666
+New_York_Rangers	9650
+Rock	9639
+Member_of_Parliament_(United_Kingdom)	9633
+Royal_Society	9621
+Fire	9613
+PGA_Tour	9612
+Hanover	9607
+2008_Summer_Olympics	9605
+Light	9603
+Jainism	9602
+Ferrari	9598
+Dutch_East_India_Company	9595
+Moldova	9591
+Morgan	9587
+Program	9587
+MD	9586
+Beck	9578
+Journal	9574
+Bern	9567
+Junior	9563
+Gospel	9553
+National_Park_Service	9523
+Macau	9520	Place	Area
+Emma	9511
+Rajasthan	9509	Place	Country
+Kashmir	9507	Place	Area
+Capitol_Records	9505
+Tottenham_Hotspur_F.C.	9500
+Jamey_Wright	9482	Person	Sports	Baseball
+Stoke_City_F.C.	9471
+Oh	9459
+Newcastle_United_F.C.	9457
+Luke	9448
+USA_Today	9443
+The_CW	9438
+Newfoundland_and_Labrador	9428
+Pro_Bowl	9427
+Winter	9426
+Alps	9426	Place	Area
+Sufism	9425
+Marie	9409
+Chevrolet	9401
+BP	9399
+Ultra_high_frequency	9394
+Second_Sino-Japanese_War	9391
+Latin_Americans	9389
+Miller	9388
+Pope_Francis	9385	Person	Religion
+Short	9378
+History_of_the_Oakland_Raiders	9377
+General_Electric	9368
+Ben	9366
+Archbishop	9361
+Second_Boer_War	9359
+Academy_Award_for_Best_Actress	9353
+Aston_Villa_F.C.	9351
+Oliver_Cromwell	9349	Person	Politics
+Crimea	9348	Place	Area
+T_(disambiguation)	9347
+Westminster	9346
+Tampa,_Florida	9346
+IV	9343
+Juventus_F.C.	9340
+Dorset	9339	Place	Area
+Bordeaux	9334	Place	City
+Charles_Darwin	9334	Person	Science
+Federal	9330
+Pablo_Picasso	9328	Person	Art
+National	9326
+Palermo	9325	Place	City
+House_of_Habsburg	9313
+Guangzhou	9313
+Grand_Cross	9310
+Tony_Award	9308
+United_Nations_Security_Council	9306
+First_Nations	9304
+Hamilton	9303
+University_of_Washington	9288
+FR	9287
+International_Space_Station	9286
+boy	9276
+Ray	9266
+X-ray	9266
+Metropolitan_Opera	9254	Place	Monument
+Book	9237
+Executive_Director	9237
+Royal_Engineers	9235
+Plato	9218	Person	Science
+Now	9218
+Robinson	9216
+Albert_Einstein	9213	Person	Science
+Black_Sea	9212	Place	Sea
+Oricon	9212
+McLaren	9210
+East_Asia	9199	Place	Area
+Georgetown_University	9197
+Judge	9194
+LE	9184
+Ministry_of_Defence_(United_Kingdom)	9172
+LLC	9164
+International_Organization_for_Standardization	9162
+Wiltshire	9161	Place	Area
+Cavalier	9152
+Number	9143
+Saturday_(disambiguation)	9140
+Z	9121
+Lincolnshire	9118	Place	Area
+Gloucestershire	9117	Place	Area
+San_Francisco_Bay_Area	9113	Place	Area
+Scottish_Gaelic	9107
+Roberts	9105
+Giuseppe_Verdi	9095	Person	Music
+Dan	9074
+Montreal_Canadiens	9070
+Chancellor_(education)	9067
+Study	9066
+PlayStation_3	9051
+Roger_Ebert	9047
+Design	9039
+War_of_1812	9036
+Champion	9027
+Royal_Australian_Navy	9024
+Iron_Man	9016	Person	Fictional
+First_French_Empire	9016
+Tucson,_Arizona	9006
+Michigan_State_University	9003
+Martin_Luther	9001	Person	Religion
+Aborigine	9001
+Management	9001
+Atlantic_Coast_Conference	8981
+Nirvana_(band)	8978
+Arabian_Peninsula	8976	Place	Area
+Nick	8969
+Caucasus	8967	Place	Area
+Cooper	8965
+Seattle_Seahawks	8963
+AM_broadcasting	8958
+Sarajevo	8956	Place	City
+Houston_Astros	8955
+Düsseldorf	8955	Place	City
+AA	8951
+George_H._W._Bush	8942	Person	Politics
+Carmen	8939
+Toronto_Blue_Jays	8938
+Persian_Gulf	8935	Place	Area
+North_Dakota	8934	Place	Area
+Isle_of_Man	8925	Place	Area
+Hamlet	8920
+French_Revolutionary_Wars	8917
+Seville	8913
+Kyoto	8911	Place	City
+Pope_Benedict_XVI	8910	Person	Religion
+Dance	8908
+Dhaka	8908
+BMW	8898
+Northern_Territory	8888	Place	Area
+The_Rolling_Stones	8887
+Library_of_Congress	8885
+Mix	8885
+Munster	8882
+Excellence	8880
+Gulf_of_Mexico	8878	Place	Area
+Sept	8848
+Vilnius	8848	Place	City
+Talmud	8844
+Domesday_Book	8843
+Finance	8833
+British_Isles	8818	Place	Area
+Cabinet	8817
+Northwestern_University	8816
+Hamas	8807
+Edition	8799
+Joseph_Smith	8798	Person	Religion
+City_of_London	8797
+Turner	8791
+AC	8790
+Andrew_Jackson	8787	Person	Politics
+Socialist_Federal_Republic_of_Yugoslavia	8779
+George_V	8777	Person	Politics
+Blue	8774
+Toronto_Maple_Leafs	8773
+Environment	8766
+Murray	8765
+Coronavirus_disease_2019	8759
+Instagram	8756
+The_Independent	8746
+Woman	8737
+Scottish_people	8737
+Letter	8736
+Israelites	8729
+Chicago_Tribune	8728
+Turkish_language	8719
+Civil_War	8719
+Fox	8707
+Halloween	8702
+Roman_Britain	8702	Place
+Joker_(character)	8696	Person	Fictional
+Peace	8688
+Academy_Award_for_Best_Actor	8686
+Exeter	8686
+Saddam_Hussein	8684	Person	Politics
+Gothic_architecture	8683
+Lok_Sabha	8681
+Orchestra	8677
+Elton_John	8676	Person	Music
+Bergen	8668
+UEFA_European_Championship	8667
+Independent	8666
+Russell	8662
+Hertfordshire	8661
+Guide	8660
+Engineer	8658
+Andes	8652	Place	Area
+Stewart	8647
+BBC_Two	8644
+Māori_people	8639
+Anne	8635
+Mecca	8630	Place	City
+Star_Wars	8629
+Allies	8625
+Light-emitting_diode	8623
+Silver	8623
+Sir	8622
+Edward_I_of_England	8621	Person	Politics
+Wikipedia	8617
+Kabul	8605
+Limerick	8604
+Lewis_Hamilton	8601	Person	Sports	Cars
+Saint_George	8600	Person	Religion
+Singh	8597
+Transylvania	8597	Place	Area
+Real_Madrid_CF	8585
+Island	8577
+2016_Summer_Olympics	8576
+University_College_London	8570
+South_India	8568	Place	Area
+Conference	8567
+List_A_cricket	8560
+Winner	8559
+Croats	8556
+United_States_Department_of_Agriculture	8550
+San_Diego_Padres	8534
+Israelis	8534
+Song_dynasty	8531
+Lviv	8530
+Georgia_Tech	8530
+Islamism	8530
+Issue	8520
+Taipei	8512	Place	City
+Bengali_language	8510
+Palestine_(region)	8503	Place	Area
+Library	8498
+University_of_Minnesota	8495
+Bhutan	8492	Place	Country
+Old_Testament	8491
+Film	8490
+Sasanian_Empire	8480
+New_World	8478
+Middlesex	8477	Place	Area
+Bremen	8476	Place	City
+Minnesota_Twins	8475
+Auschwitz_concentration_camp	8471	Place	Monument
+John_McCain	8470	Person	Politics
+James_II_of_England	8469	Person	Politics
+Bolton	8467
+El	8465
+Los_Angeles_Angels	8459
+Kurds	8447
+Second_Polish_Republic	8443
+Chemistry	8441
+LP_record	8434
+Hobart	8430
+Heart	8426
+Aleppo	8418	Place	City
+Johns_Hopkins_University	8413
+Syrians	8412
+Evans	8410
+Ukrainians	8409
+Grant	8404
+Texas_Rangers_(baseball)	8403
+Ellis	8402
+Michael_(archangel)	8399
+ID	8394
+Augustine_of_Hippo	8391	Person	Science
+Lagos	8388	Place	City
+Nobel_Prize	8384
+Nickelodeon	8384
+Do	8373
+EFL_League_Two	8368
+North_Vietnam	8364	Place	Area
+Iroquois	8359
+French_Canadians	8359
+Bruce_Springsteen	8355	Person	Music
+Anthony	8353
+Sega	8346
+Franks	8336
+Samoa	8335	Place	Country
+Commander-in-chief	8333
+Australian_Army	8333
+Pitchfork_(website)	8327
+Kingdom_of_England	8325
+Margaret_Thatcher	8325	Person	Politics
+Graham	8324
+Hot_Country_Songs	8323
+PC	8323
+Hannah	8317
+Kilkenny	8310
+SO	8303
+Trinidad	8301
+Carthage	8295
+EFL_League_One	8284
+Ho_Chi_Minh_City	8282	Place	City
+Indian_subcontinent	8279	Place	Area
+Chief_of_staff	8268
+Monaco	8268
+Canadian_Pacific_Railway	8266
+Eucharist	8260
+Macintosh	8252
+Liverpool_F.C.	8240
+Egyptians	8238
+Xbox_360	8238
+French_Third_Republic	8237
+Hartford,_Connecticut	8236
+Chrysler	8234
+Communist_Party_of_the_Soviet_Union	8230
+year	8229
+Nice	8224
+Himalayas	8221	Place	Area
+Murphy	8220
+Orthodox_Judaism	8208
+West_Bank	8207
+Ivory_Coast	8201	Place	Country
+Western_world	8187
+Boston_Celtics	8187
+International_Monetary_Fund	8182
+Keyboard	8179
+University_of_Virginia	8177
+Coventry	8176
+Eminem	8172	Person	Music
+Ross	8171
+Colombo	8166
+Go	8156
+William_the_Conqueror	8151	Person	Politics
+Knight	8148
+Global_Positioning_System	8147
+Pennsylvania_State_University	8138
+Northern	8137
+Chairperson#Vice_chairman_and_deputy_chairman	8124
+Tampa_Bay_Buccaneers	8115
+Aristotle	8113	Person	Science
+Johnny	8113
+Metropolitan_Museum_of_Art	8109	Place	Monument
+Iron_Age	8104
+Rutgers_University	8099
+Ruth	8096
+Japanese_people	8090
+Yiddish	8078
+R._(album)	8073
+American_Idol	8072
+Dundee	8071
+Oklahoma_City	8062
+Sea	8054
+Australian_Broadcasting_Corporation	8054
+Motown	8047
+Tommy	8046
+Liberal	8045
+Providence,_Rhode_Island	8043
+Ohio_River	8039	Place	River
+Order_(distinction)	8038
+EastEnders	8028
+Amnesty_International	8025
+Nile	8022	Place	River
+Charlemagne	8016	Person	Politics
+Pulitzer_Prize	8015
+PlayStation	8012
+Fort_Worth,_Texas	8012
+Swedes	8011
+Cambridge,_Massachusetts	8009
+Secretary_(title)#Secretary-General	8004
+Hebrew_Bible	8003
+John_the_Baptist	8002	Person	Religion
+Atlanta_Falcons	8001
+Kylie_Minogue	7997	Person	Music
+Bogotá	7994
+Third	7980
+Neolithic	7980
+Nuremberg	7976
+Chicago_Blackhawks	7973
+United_States_Numbered_Highway_System	7963
+Boston_Bruins	7963
+Marylebone_Cricket_Club	7963
+George_Frideric_Handel	7949	Person	Music
+ranking_member	7946
+Dante_Alighieri	7943	Person	Literature
+Oliver	7937
+International_Union_for_Conservation_of_Nature	7931
+Wrocław	7921
+Anniversary	7920
+Toulouse	7914
+New_York_Knicks	7914
+Galway	7910
+Jimi_Hendrix	7905	Person	Music
+Agriculture	7905
+Steven_Spielberg	7902	Person	Film
+United_States_federal_judge	7901
+Berkshire	7897	Place	Area
+Australian_Government	7894
+Brown_University	7892
+Amazon_(company)	7885
+Iranian	7884
+Attorney_general	7880
+Bart_Simpson	7873
+Sheffield_United_F.C.	7872
+Henry_II_of_England	7871	Person	Politics
